@@ -101,7 +101,7 @@ function movieThis(searchTerm, callback) {
   if (!searchTerm) //if no title is defined
     searchTerm = "Mr. Nobody";
 
-  var queryUrl = "http://www.omdbapi.com/?t=" + searchTerm + "&y=&plot=short&apikey=" + omdb;
+  var queryUrl = "http://www.omdbapi.com/?t=" + searchTerm + "&y=&plot=short&apikey=trilogy" + omdb;
   // console.log(queryUrl);
   // console.log(omdb);
 
