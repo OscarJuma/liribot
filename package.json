@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/oscarjuma/liribot#readme",
   "dependencies": {
-    "dotenv": "^6.1.0",
-    "moment": "^2.22.2",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7",
+    "omdbapi": "^3.0.0",
     "request": "^2.88.0"
-  }
+  },
+  "devDependencies": {}
 }
