@@ -77,20 +77,5 @@ To use each LIRI function - type the following CLI in the format below:
 
 ## Returns
 
-**Bands in Town:**
-![bands in town](https://user-images.githubusercontent.com/40619158/47696044-fbdd4e80-dbd2-11e8-9051-217bf3208413.PNG)
-
 **Spotify:**
-![spotify](https://user-images.githubusercontent.com/40619158/47696124-4ced4280-dbd3-11e8-8602-5e9e54d426f0.PNG)
-
-**Spotify Preview Song:**
-[preview](https://drive.google.com/file/d/1u_icV0oOGlJ3ci1qdqKAIiMget9upYEL/view)
-
-**OMDB:**
-![omdb](https://user-images.githubusercontent.com/40619158/47696113-41018080-dbd3-11e8-8b37-d9842a6535b3.PNG)
-
-**Do what it says:**
-![do-what-it-says](https://user-images.githubusercontent.com/40619158/47696133-58406e00-dbd3-11e8-9570-ffc3fac889e5.PNG)
-
-**Example of random.txt file format:**
-![do-what-it-says example](https://user-images.githubusercontent.com/40619158/47696175-976ebf00-dbd3-11e8-9294-707576ab6b47.PNG)
+![spotify](images/Thiller.JPG)
