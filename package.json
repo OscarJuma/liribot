@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebake44/liri-node-app.git"
+    "url": "git+https://github.com/oscarjuma/liribot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rebake44/liri-node-app/issues"
+    "url": "https://github.com/oscarjuma/liribot/issues"
   },
-  "homepage": "https://github.com/rebake44/liri-node-app#readme",
+  "homepage": "https://github.com/oscarjuma/liribot#readme",
   "dependencies": {
     "dotenv": "^6.1.0",
     "moment": "^2.22.2",
